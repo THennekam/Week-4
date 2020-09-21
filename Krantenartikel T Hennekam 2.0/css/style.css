@@ -1,0 +1,20 @@
+body{
+	background-color:cyan;
+	background-image:url("../images/novigrad.jpg");
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size:cover;
+}
+
+p{
+	color:white;
+	font-size:25px;
+}
+
+h1{
+	color:white;
+}
+
+img{
+	margin: 25px 25px 25px 25px;
+}
